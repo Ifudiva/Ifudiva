@@ -1,8 +1,8 @@
-- 👋 Hi there, I’m @Ifudiva
+- 👋 Hi there, I am Ifunanya Onyeka 
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Advanced Ms Excel and Data Analysis (SQL,Power BI and python)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate on....
+- 📫 How to reach me @onyekaifunanya0gmail
 - 😄 Pronouns: she
 - ⚡ Fun fact: I love to explore and learn new things
 
